@@ -1,5 +1,6 @@
 # Rise Out From Dungeons
  게임을 안드로이드에서 구현
+ 안드로이드에서 지원한 OpenGL ES 1.1만으로 사용...
  
 01 새 프로젝트 만듦, 풀스크린 액티비티, 화면 상하단 바 처리와 켜진 상태로 유지, OpenGL ES 전용 View 추가 및 2D좌표로 기본 세팅
 
@@ -12,7 +13,7 @@
 05 - 구상 중 -
 
 
-[bova.wo.to](http://bova.wo.to)
+[bova.wo.to](http://bova.wo.to/rise_out)
 
 [동영상](https://youtu.be/Bs3YEVq6yHk)
 
