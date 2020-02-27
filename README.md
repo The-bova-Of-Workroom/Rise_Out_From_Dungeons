@@ -14,7 +14,7 @@
 05 - 구상 중 -
 
 
-[bova.wo.to](http://bova.wo.to/rise_out)
+[홈 페이지](http://bova.wo.to/rise_out)
 
 
   저작권 문제가 있는 경우 연락해 주시면 중단 및 삭제 하겠습니다. (If you have a copyright issue, please contact us and we will stop and delete it.)
