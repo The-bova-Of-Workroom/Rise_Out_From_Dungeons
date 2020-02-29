@@ -8,6 +8,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.WindowManager;
 
+import net.bova.OpenGL_ES_11_2D.deviceInfo;
+
 
 public class MainActivity extends Activity {
     private viewOpenGL view;
@@ -18,6 +20,8 @@ public class MainActivity extends Activity {
 
 
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
+
+        new deviceInfo( 640, 384, this);
 
         view= new viewOpenGL(this);
         setContentView(view);
