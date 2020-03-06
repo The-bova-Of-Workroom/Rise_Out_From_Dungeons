@@ -29,7 +29,7 @@ public class tiled {
     }
 
     public static void draw(int c, int r, int ch) {
-        if (c != 0) p4t.draw(CTOX(c), RTOY(r), ch);
+        if (ch != 0) p4t.draw(CTOX(c), RTOY(r), ch);
     }
 
     public static void print(int c, int r, String s) {
