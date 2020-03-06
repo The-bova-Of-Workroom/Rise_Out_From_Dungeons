@@ -21,7 +21,7 @@ public class MainActivity extends Activity {
 
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
 
-        new deviceInfo( 640, 384, this);
+        new deviceInfo(640, 384, this);
 
         view= new viewOpenGL(this);
         setContentView(view);

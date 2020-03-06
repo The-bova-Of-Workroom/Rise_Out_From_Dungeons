@@ -21,7 +21,7 @@ public class deviceInfo {
         WIDTHD= 0;
     }
 
-    public static void setDevice(int width, int height) {
+    public static void set(int width, int height) {
         if (WIDTHD != 0) return;
 
         WIDTHD= width;
