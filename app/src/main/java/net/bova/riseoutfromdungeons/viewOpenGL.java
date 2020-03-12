@@ -80,7 +80,6 @@ public class viewOpenGL extends GLSurfaceView implements GLSurfaceView.Renderer 
 
         tiled.print(10, 1, count+= 100);
         tiled.print(10, 2, "S:"+mainState);
-
         switch (mainState) {
             case 0  :   return;
             case 1  :
