@@ -11,7 +11,7 @@
 
 04 메시지 박스와 맵 클래스 구현, 더치 메소드 추가 및 수정 ... [동영상](https://youtu.be/TA_lTt6IYVw)
 
-XX 퇴원 했음. 4개월 재환 후 작업 시작.. [공지](http://board.blueweb.co.kr/board.cgi?id=infinity&bname=Notice)
+XX 퇴원 했음. 4개월 재활 후 작업 시작.. [공지](http://board.blueweb.co.kr/board.cgi?id=infinity&bname=Notice)
 
 05 스프라이트 구현, 2개의 이미지 출력 클래스 추가, 가상 조이패드 구현 - 메모 중...
 
